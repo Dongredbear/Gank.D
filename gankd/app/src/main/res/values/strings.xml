@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">GankD</string>
+    <string name="category_all">All</string>
+    <string name="category_benefit">福利</string>
+    <string name="category_android">Android</string>
+    <string name="category_ios">IOS</string>
+    <string name="category_expand_video">休息视频</string>
+    <string name="category_expand_res">拓展资源</string>
+    <string name="category_web">前端</string>
+    <string-array name="category_arrays">
+        <item>@string/category_all</item>
+        <item>@string/category_benefit</item>
+        <item>@string/category_android</item>
+        <item>@string/category_ios</item>
+        <item>@string/category_expand_video</item>
+        <item>@string/category_expand_res</item>
+        <item>@string/category_web</item>
+    </string-array>
+
+
+
+    <string name="setting_notify">每天中午提醒</string>
 </resources>
